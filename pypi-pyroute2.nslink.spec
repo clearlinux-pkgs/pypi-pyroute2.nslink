@@ -4,7 +4,7 @@
 #
 Name     : pypi-pyroute2.nslink
 Version  : 0.6.13
-Release  : 22
+Release  : 23
 URL      : https://files.pythonhosted.org/packages/7b/ed/4078f4f25d0908106540d75ff053a1dc6f39161cda69d556e109bdb1bfc6/pyroute2.nslink-0.6.13.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7b/ed/4078f4f25d0908106540d75ff053a1dc6f39161cda69d556e109bdb1bfc6/pyroute2.nslink-0.6.13.tar.gz
 Summary  : Python Netlink library: NetNS, NSPopen and remote modules
